@@ -17,4 +17,5 @@
     "sequence": 10,
     "depends": ["base", "auth_ldap"],
     "data": ["views/res_company_ldap_views.xml"],
+    "images": ["static/description/rydlab_ldap_2.jpg"]
 }
